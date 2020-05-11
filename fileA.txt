@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 modification fileA
 dadqsfsef
 s
 fefssf
 
 rgegr
-=======
->>>>>>> parent of 54f2693... modify fileA

@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 modification fileA
 dadqsfsef
 s
 fefssf
 
 rgegr
+=======
+modif 
+>>>>>>> br_FIX_01

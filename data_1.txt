@@ -1,6 +1,14 @@
 info: data_1
 start
+<<<<<<< HEAD
 work
 Task 1
 Task 2
+=======
+Job1: do something
+work
+Test: Verify job
+Job2: do something else
+Test : verify job 2
+>>>>>>> br_FIX_03
 end

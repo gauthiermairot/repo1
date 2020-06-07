@@ -1,11 +1,6 @@
 info: data
 start
-Task0
-Sub Task0
-work
+work:
+task un
+task deux
 end
-start: 2
-work 2
-end: 2
-
-Modif1 depuis github
